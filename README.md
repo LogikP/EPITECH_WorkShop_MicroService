@@ -44,6 +44,7 @@ the result of the request must be like :
 
 If you have done this exercise well, logically when you go to a web page and type: localhost: 8002/helloworld, you are supposed to have this as a result:
 
+![Screenshot](Screenshot.png)
 
 
 # Step 4 : First Request on Postman
