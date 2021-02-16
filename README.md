@@ -62,6 +62,18 @@ you are supposed to have this as a result :
 
 # Step 6 : API GateWay
 
-open the krakend.json file and setup your first redirection : au lien maintenant de ping le localhost:8002, si tu as bien fais ton travail, tu es censé pourvoir ping et avoir le même résultat que précédement sur le localhost:8080
+All the documentation is here : https://www.krakend.io/docs/overview/introduction/
 
-# Step 7 : Allez plus loin
+open the ./KrakenD/krakend.json file and setup your first redirection!
+
+at the link now to ping the localhost: 8002, if you did your job well, you are supposed to ping and have the same result as before on the localhost: 8080
+
+# Step 7 : go further
+
+Now that you know how to use all the tools, we offer you a more complicated exercise.
+
+You are now going to go ping an outside API, we have chosen a weather API.
+The goal is simple: retrieve all the information related to the weather in relation to a given city !
+
+Go to the ./API_ts/src/controller/user.controller.ts file.
+perform the exercise
