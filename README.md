@@ -77,3 +77,7 @@ The goal is simple: retrieve all the information related to the weather in relat
 
 Go to the ./API_ts/src/controller/user.controller.ts file.
 perform the exercise
+
+you are supposed to have this as a result :
+
+![Screenshot](Screenshot3.png)
