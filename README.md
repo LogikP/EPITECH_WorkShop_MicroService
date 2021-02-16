@@ -53,6 +53,10 @@ Postman is your best friend in web developement !!
 
 try to request the precedent exercice via Postman
 
+you are supposed to have this as a result :
+
+![Screenshot](Screenshot1.png)
+
 # Step 5 : Docker
 
 
