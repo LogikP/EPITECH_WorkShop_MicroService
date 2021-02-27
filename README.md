@@ -48,17 +48,34 @@ If you have done this exercise well, logically when you go to a web page and typ
 
 
 # Step 4 : First Request on Postman
+  # 4.1 : Exercice 1
+      Postman is your best friend in web developement !!
 
-Postman is your best friend in web developement !!
+      try to request the precedent exercice via Postman
 
-try to request the precedent exercice via Postman
+      you are supposed to have this as a result :
 
-you are supposed to have this as a result :
-
-![Screenshot](Screenshot1.png)
+      ![Screenshot](Screenshot1.png)
+      
+  # 4.2 Exercice 2 
+    Get a Chuck Norris joke !
+    
+    try to retrive a Chuck Norris joke via the api : https://api.chucknorris.io/
+    It's really easy, so let's do it !
+    
+  # 4.3 Exercice 3
+    Get the position of the ISS StarShip
+    
+    try to retrive the latitute and longitude value via the api : http://open-notify.org/Open-Notify-API/ISS-Location-Now/
+    
 
 # Step 5 : Docker
 
+If you are new to Docker, then you can try doing Dockerfile and Dockercompose.yml to be able to launch KrakenD and your API_ts at the same time.
+Believe it or not, but it will come in handy in your senior years at epitech.
+
+If you are not, send a message to the organizers of the workshop to get the file and pass this step.
+We will make a correction in any case, you will be able to understand to whom these files correspond.
 
 # Step 6 : API GateWay
 
