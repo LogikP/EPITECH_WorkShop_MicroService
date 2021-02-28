@@ -44,7 +44,7 @@ the result of the request must be like :
   text: "Hello World"
 }
 
-If you have done this exercise well, logically when you go to a web page and type: localhost: 8002/helloworld, you are supposed to have this as a result:
+If you have done this exercise well, logically when you go to a web page and type: localhost:8002/helloworld, you are supposed to have this as a result:
 
 ![Screenshot](Screenshot.png)
 
@@ -73,11 +73,18 @@ If you have done this exercise well, logically when you go to a web page and typ
 
 # Step 5 : Docker
 
-If you are new to Docker, then you can try doing Dockerfile and Dockercompose.yml to be able to launch KrakenD and your API_ts at the same time.
+If you know Docker, then you can try doing Dockerfile and Dockercompose.yml to be able to launch KrakenD and your API_ts at the same time.
 Believe it or not, but it will come in handy in your senior years at epitech.
 
-If you are not, send a message to the organizers of the workshop to get the file and pass this step.
+
+If you don't, send a message to the organizers of the workshop to get the file and pass this step.
 We will make a correction in any case, you will be able to understand to whom these files correspond.
+
+
+To launch your docker setup, type this command where the docker-compose.yml is:
+  
+  sudo docker-compose up --build
+
 
 # Step 6 : API GateWay
 
@@ -85,7 +92,7 @@ All the documentation is here : https://www.krakend.io/docs/overview/introductio
 
 open the ./KrakenD/krakend.json file and setup your first redirection!
 
-at the link now to ping the localhost: 8002, if you did your job well, you are supposed to ping and have the same result as before on the localhost: 8080
+at the link now to ping the localhost:8002, if you did your job well, you are supposed to ping and have the same result as before on the localhost:8080
 
 # Step 7 : go further
 
