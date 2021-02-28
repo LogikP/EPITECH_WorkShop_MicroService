@@ -6,9 +6,11 @@ You will also be introduced to the use of an API Gateway (in this case, we choos
 
 # Step 1 : Downloads
 
-Download the package manager NPM : https://www.npmjs.com/get-npm
-Download Docker : https://docs.docker.com/get-docker/
-Download Postman : https://www.postman.com/downloads/
+- Download Node js : https://nodejs.org/en/download/current/
+- Try to execute this command : npm --version
+- If you have not npm with the precedent download, download the package manager NPM : https://www.npmjs.com/get-npm
+- Download Docker : https://docs.docker.com/get-docker/
+- Download Postman : https://www.postman.com/downloads/
 
 # Step 2 : Comprehension
 
@@ -49,24 +51,24 @@ If you have done this exercise well, logically when you go to a web page and typ
 
 # Step 4 : First Request on Postman
   # 4.1 : Exercice 1
-      Postman is your best friend in web developement !!
+  Postman is your best friend in web developement !!
 
-      try to request the precedent exercice via Postman
+  try to request the precedent exercice via Postman
 
-      you are supposed to have this as a result :
+  you are supposed to have this as a result :
 
-      ![Screenshot](Screenshot1.png)
+  ![Screenshot](Screenshot1.png)
       
   # 4.2 Exercice 2 
-    Get a Chuck Norris joke !
+  Get a Chuck Norris joke !
     
-    try to retrive a Chuck Norris joke via the api : https://api.chucknorris.io/
-    It's really easy, so let's do it !
+  try to retrive a Chuck Norris joke via the api : https://api.chucknorris.io/
+  It's really easy, so let's do it !
     
   # 4.3 Exercice 3
-    Get the position of the ISS StarShip
+  Get the position of the ISS StarShip
     
-    try to retrive the latitute and longitude value via the api : http://open-notify.org/Open-Notify-API/ISS-Location-Now/
+  try to retrive the latitute and longitude value via the api : http://open-notify.org/Open-Notify-API/ISS-Location-Now/
     
 
 # Step 5 : Docker
