@@ -84,6 +84,8 @@ We will make a correction in any case, you will be able to understand to whom th
 To launch your docker setup, type this command where the docker-compose.yml is:
   
   sudo docker-compose up --build
+  
+check if your query hello world still works 
 
 
 # Step 6 : API GateWay
