@@ -5,6 +5,6 @@ export class Routes {
 
     public routes(app: Express): void {
         // exemple
-        // app.route("PATH")."http verb"(Path to function)
+        // app.route("PATH")."http verb"(call a controller function)
     }
 }
